@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1688523897 source:c:\users\lucas\onedrive\Área de trabalho\aleatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
+1688577236 source:c:\users\lucas\onedrive\Área de trabalho\jogo da velha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	<time.h>
+	<conio.h>
+	<windows.h>
+	<locale.h>
+
